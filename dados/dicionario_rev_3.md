@@ -1,6 +1,4 @@
-DICIONÁRIO DE DADOS: 
-
-train_id - Variável do Tipo int64: Coluna referente Identificação numeral da posição que foi cadastrada no data set, semelhante a função do INDEX, (não está em ordem referente a data de venda).
+# DICIONÁRIO DE DADOS
 
 test_id - Variável do Tipo int64: Coluna referente Identificação numeral da posição que foi cadastrada no data set, semelhante a função do INDEX, (não está em ordem referente a data de venda).
 
@@ -19,11 +17,11 @@ brand_name - Variável do Tipo object: Coluna contendo a marca do produto.
 
 shipping - Variável Tipo int64: Coluna referente a frete, no qual CIF = 1 (taxa de envio paga pelo vendedor), FOB = 0 (taxa de envio para pelo comprador).
 
-item_description - Variável do Tipo object: Coluna contém a descrição da característica do produto, informação fornecida pelo vendedor. 
+item_description - Variável do Tipo object: Coluna contém a descrição da característica do produto, informação fornecida pelo vendedor.
 
 date - Variável do Tipo object: Coluna contendo a data da inserção do produto.
 
-stock - Variável do Tipo object: (Esse me gerou dúvidas:  esse é o estoque do produto no dia da inserção.
+stock - Variável do Tipo object: (Esse me gerou dúvidas: esse é o estoque do produto no dia da inserção.
 
 PALAVRAS CHAVES:
 
